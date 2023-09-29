@@ -7,7 +7,11 @@ Fonction principale
 *****************************/
 int main()// Fonction principale
 {
-    cout<< "bonjour lekip"<<endl;
+   int x;
+   cout<<"wsh ca va kho"<<endl;
+   cout<<"t sur ca va "<<endl;
+   
 cin.get() ; cin.ignore() ; // attente d'appui sur une touche
 return EXIT_SUCCESS; // fin du programme. Le code 0 est envoyé
 }
+gitgit
